@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<video src="https://github.com/lucasgastaldi/lucasgastaldi/blob/main/Lucas-gastaldi.mp4" alt="banner">
+<video src="https://github.com/lucasgastaldi/lucasgastaldi/blob/main/Lucas-gastaldi.mp4" alt="banner"></video>
 
 <!--
 **lucasgastaldi/lucasgastaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
